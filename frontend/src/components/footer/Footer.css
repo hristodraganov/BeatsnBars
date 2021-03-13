@@ -1,0 +1,19 @@
+.footer {
+    margin-top: 10vh;
+    display: flex;
+    height: 30vh;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+}
+.footer-start {
+    border: 1px solid rgb(20, 124, 37);
+    margin-top: 1vh;
+    display: flex;
+    width: 90%;
+}
+.icons {
+    display: flex;
+    justify-content: space-around;
+    width: 10%;
+}

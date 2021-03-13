@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    background: rgb(31, 31, 31);
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+a {
+    text-decoration: none;
+}

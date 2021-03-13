@@ -1,0 +1,12 @@
+.file-box {
+    display: flex;
+    justify-content: center;
+    margin-top: 30vh;
+    width: 100%;
+}
+.file-box input {
+    margin: 3rem;
+}
+.file-box button {
+    margin: 3rem;
+}

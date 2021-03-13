@@ -1,0 +1,10 @@
+.about li {
+    list-style: none;
+    font-size: 1.5rem;
+}
+.about {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
